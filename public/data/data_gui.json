@@ -1,0 +1,40 @@
+[
+  {
+    "id": "1",
+    "category": "recruitment",
+    "tier": "free",
+    "jobType": "full-time",
+    "region": "johor",
+    "city": "batu-pahat",
+    "price": "2000",
+    "contactPhone": "0127526566",
+    "contactEmail": "",
+    "contactName": "mr Lee",
+    "postedAt": "2026-06-05T16:40:26Z",
+    "title": {
+      "zh": "asjkfhoiahoif",
+      "en": "",
+      "ms": ""
+    },
+    "summary": {
+      "zh": "sdagffsdghhdfdhfg",
+      "en": "",
+      "ms": ""
+    },
+    "description": {
+      "zh": "sdgdf sdfg sd gsdf gdsfg \n sdgsdf\n g\nsd g\nsdf",
+      "en": "",
+      "ms": ""
+    },
+    "priceDisplay": {
+      "zh": "2000",
+      "en": "",
+      "ms": ""
+    },
+    "company": {
+      "zh": "sdfsdf sd",
+      "en": "",
+      "ms": ""
+    }
+  }
+]
